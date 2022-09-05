@@ -1,0 +1,536 @@
+1654034552548	geckodriver	INFO	Listening on 127.0.0.1:62430
+1654034555591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62431" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofileljq9VK"
+1654034556157	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofileljq9VK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62431/devtools/browser/4bb4fea7-cafe-424e-a83d-4f576e628bed
+1654034558336	Marionette	INFO	Listening on port 62465
+Read port: 62465
+1654034558467	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://yandex.by"
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://yastatic.net/yandex-video-player-iframe-api-bundles/1.0-9135/js/player.v2.modern.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654035341660	Marionette	INFO	Stopped listening on port 62465
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62654" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofile4bVhrC"
+1654034667599	geckodriver	INFO	Listening on 127.0.0.1:62719
+1654034670676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62720" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofilemIIRuR"
+1654034671098	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62720
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofilemIIRuR\\search.json.mozlz4", (void 0)))
+1654034673210	Marionette	INFO	Listening on port 62746
+DevTools listening on ws://localhost:62720/devtools/browser/48ac5706-9e49-4a0a-bced-d781b72f8a9b
+Read port: 62746
+1654034673353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://yandex.by"
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654034719330	Marionette	INFO	Stopped listening on port 62746
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654034741567	geckodriver	INFO	Listening on 127.0.0.1:63760
+1654034744600	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63761" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofile1L08Ld"
+1654034745048	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:63761
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofile1L08Ld\\search.json.mozlz4", (void 0)))
+1654034747097	Marionette	INFO	Listening on port 63788
+DevTools listening on ws://localhost:63761/devtools/browser/b99a17b1-4562-4091-99d0-3948d7ccf6d3
+Read port: 63788
+1654034747171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://yandex.by"
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654034860346	Marionette	INFO	Stopped listening on port 63788
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654034865481	geckodriver	INFO	Listening on 127.0.0.1:54867
+1654034868558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54868" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofileSli0f8"
+1654034868938	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54868
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofileSli0f8\\search.json.mozlz4", (void 0)))
+1654034870870	Marionette	INFO	Listening on port 54894
+DevTools listening on ws://localhost:54868/devtools/browser/a2ddc3db-7cfd-4203-adbe-faa678b9f50e
+Read port: 54894
+1654034870916	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://yandex.by"
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654034968888	geckodriver	INFO	Listening on 127.0.0.1:49229
+1654034971963	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49230" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofilevmSkjQ"
+1654034972393	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49230
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofilevmSkjQ\\search.json.mozlz4", (void 0)))
+1654034974589	Marionette	INFO	Listening on port 55713
+Read port: 55713
+DevTools listening on ws://localhost:49230/devtools/browser/c7ed04d5-d274-44a2-89b5-d4f652b6c851
+1654034974629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://yandex.by"
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654035073239	Marionette	INFO	Stopped listening on port 55713
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654035100041	geckodriver	INFO	Listening on 127.0.0.1:63976
+1654035103113	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63977" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofile95Yr90"
+1654035103603	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:63977
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofile95Yr90\\search.json.mozlz4", (void 0)))
+1654035105431	Marionette	INFO	Listening on port 64006
+Read port: 64006
+1654035105462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:63977/devtools/browser/fc844977-42ef-45a0-9a23-47ac4c293a03
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://yandex.by"
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654035154965	geckodriver	INFO	Listening on 127.0.0.1:53909
+1654035158030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53910" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofile4jzaIg"
+1654035158443	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53910
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofile4jzaIg\\search.json.mozlz4", (void 0)))
+1654035160300	Marionette	INFO	Listening on port 53934
+DevTools listening on ws://localhost:53910/devtools/browser/f1ced232-cb25-4350-ab02-5f53c5f121db
+Read port: 53934
+1654035160371	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://yandex.by"
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654035280879	geckodriver	INFO	Listening on 127.0.0.1:58671
+1654035283931	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58672" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofileHfYTjr"
+1654035284392	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58672
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofileHfYTjr\\search.json.mozlz4", (void 0)))
+1654035286533	Marionette	INFO	Listening on port 58714
+DevTools listening on ws://localhost:58672/devtools/browser/1137fd0d-7fc5-465b-a83b-b459c323f16e
+Read port: 58714
+1654035286613	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://yandex.by"
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://yandex.ru"
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654112500473	geckodriver	INFO	Listening on 127.0.0.1:52071
+1654112503572	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52072" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofileX5haUn"
+1654112504251	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52072
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofileX5haUn\\search.json.mozlz4", (void 0)))
+1654112507201	Marionette	INFO	Listening on port 52096
+Read port: 52096
+1654112507260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:52072/devtools/browser/fd05ad8e-2c37-4485-9e7a-7b4457a3e512
+1654122292424	geckodriver	INFO	Listening on 127.0.0.1:49201
+1654122295505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49202" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofileTxDXDa"
+1654122296053	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49202
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofileTxDXDa\\search.json.mozlz4", (void 0)))
+1654122298348	Marionette	INFO	Listening on port 49228
+DevTools listening on ws://localhost:49202/devtools/browser/c2144b51-69fe-4a15-a95c-92e45f9a8b39
+Read port: 49228
+1654122298416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654126764235	geckodriver	INFO	Listening on 127.0.0.1:60766
+1654126767322	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60767" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofileEWHt5A"
+1654126767884	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60767
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofileEWHt5A\\search.json.mozlz4", (void 0)))
+1654126770042	Marionette	INFO	Listening on port 60794
+DevTools listening on ws://localhost:60767/devtools/browser/e367f88a-83e8-4ddc-b7cc-1b25f9e02546
+Read port: 60794
+1654126770119	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://yandex.by"
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654126842512	geckodriver	INFO	Listening on 127.0.0.1:61373
+1654126845596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61374" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofilec0GMqC"
+1654126845972	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61374
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofilec0GMqC\\search.json.mozlz4", (void 0)))
+1654126848060	Marionette	INFO	Listening on port 61400
+DevTools listening on ws://localhost:61374/devtools/browser/045c7871-a170-43e9-815a-743e5bdb92e6
+Read port: 61400
+1654126848153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://yandex.by"
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654126874416	Marionette	INFO	Stopped listening on port 61400
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654126902715	geckodriver	INFO	Listening on 127.0.0.1:61546
+1654126905793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61547" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofilecWd4Vv"
+1654126906168	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61547
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofilecWd4Vv\\search.json.mozlz4", (void 0)))
+1654126908274	Marionette	INFO	Listening on port 61573
+DevTools listening on ws://localhost:61547/devtools/browser/01656404-9047-4b5e-a036-c4d69bf156de
+Read port: 61573
+1654126908361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://yandex.by"
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654126943232	Marionette	INFO	Stopped listening on port 61573
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654127581334	geckodriver	INFO	Listening on 127.0.0.1:57668
+1654127584397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57669" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofile91LRev"
+1654127584834	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:57669
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofile91LRev\\search.json.mozlz4", (void 0)))
+1654127587143	Marionette	INFO	Listening on port 57695
+DevTools listening on ws://localhost:57669/devtools/browser/95b5da3d-d56a-4352-aca2-35cf10935a6c
+Read port: 57695
+1654127587210	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://yandex.by"
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654365034571	geckodriver	INFO	Listening on 127.0.0.1:61645
+1654365037642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61646" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofileDgXT43"
+1654365038240	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61646
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofileDgXT43\\search.json.mozlz4", (void 0)))
+1654365040527	Marionette	INFO	Listening on port 61673
+DevTools listening on ws://localhost:61646/devtools/browser/04a2fa7b-a15e-4d69-af93-50a197c56f13
+Read port: 61673
+1654365040651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654365060916	geckodriver	INFO	Listening on 127.0.0.1:61693
+1654365063947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61694" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofileuaeS3g"
+1654365064412	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61694
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofileuaeS3g\\search.json.mozlz4", (void 0)))
+1654365066712	Marionette	INFO	Listening on port 61720
+Read port: 61720
+1654365066758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:61694/devtools/browser/5d4fbca1-11d3-41b4-a52a-6d331c86321c
+1654365129419	geckodriver	INFO	Listening on 127.0.0.1:57345
+1654365132492	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57346" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofile3MCljy"
+1654365132964	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:57346
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofile3MCljy\\search.json.mozlz4", (void 0)))
+1654365135273	Marionette	INFO	Listening on port 63328
+DevTools listening on ws://localhost:57346/devtools/browser/1fbf0d1c-d8ec-4578-bbff-7e2daf0ab3de
+Read port: 63328
+1654365135368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://yandex.by"
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654365301191	geckodriver	INFO	Listening on 127.0.0.1:63462
+1654365304276	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63463" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofile6NGuWc"
+1654365304748	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:63463
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofile6NGuWc\\search.json.mozlz4", (void 0)))
+1654365307173	Marionette	INFO	Listening on port 63483
+DevTools listening on ws://localhost:63463/devtools/browser/66ed7833-b6e8-4b2e-bddc-5eac2997b0ac
+Read port: 63483
+1654365307304	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://yandex.by"
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654456213947	geckodriver	INFO	Listening on 127.0.0.1:65310
+1654456217034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65311" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofilejkeZBg"
+1654456217536	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:65311
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofilejkeZBg\\search.json.mozlz4", (void 0)))
+1654456219398	Marionette	INFO	Listening on port 65337
+DevTools listening on ws://localhost:65311/devtools/browser/19ca0ed1-7de6-4bb2-886e-e35690365989
+Read port: 65337
+1654456219467	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://yandex.by"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+[GFX1-]: Receive IPC close with reaso[GFX1-]: Receive IPC close with reason=Abnorn=AbnomalSrmalShutdown
+hutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_SetDisplayList) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_SetFocusTarget) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_SetDisplayList) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_SetFocusTarget) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654456278909	Marionette	INFO	Stopped listening on port 65337
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654456378349	geckodriver	INFO	Listening on 127.0.0.1:51153
+1654456381403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51154" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofilepdDgmB"
+1654456381787	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51154
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofilepdDgmB\\search.json.mozlz4", (void 0)))
+1654456383698	Marionette	INFO	Listening on port 51180
+DevTools listening on ws://localhost:51154/devtools/browser/afb9fe66-8e2a-44bf-bdb0-ab842c38a1fb
+Read port: 51180
+1654456383758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://yandex.by"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654456418593	Marionette	INFO	Stopped listening on port 51180
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654456422211	geckodriver	INFO	Listening on 127.0.0.1:51258
+1654456425276	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51259" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofilevjnJhB"
+1654456425642	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51259
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofilevjnJhB\\search.json.mozlz4", (void 0)))
+1654456427457	Marionette	INFO	Listening on port 51282
+Read port: 51282
+DevTools listening on ws://localhost:51259/devtools/browser/a52be81e-18f8-4407-bd4f-c0ab668d79f6
+1654456427492	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654456460438	Marionette	INFO	Stopped listening on port 51282
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654456464289	geckodriver	INFO	Listening on 127.0.0.1:51394
+1654456467377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51395" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofileWiLD06"
+1654456467746	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51395
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofileWiLD06\\search.json.mozlz4", (void 0)))
+1654456469613	Marionette	INFO	Listening on port 51417
+DevTools listening on ws://localhost:51395/devtools/browser/7156e51f-d19b-4fe7-8aac-783e4b3ab860
+Read port: 51417
+1654456469733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654456560545	Marionette	INFO	Stopped listening on port 51417
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654456564754	geckodriver	INFO	Listening on 127.0.0.1:63223
+1654456567834	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63224" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofileE8m8i2"
+1654456568225	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:63224
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofileE8m8i2\\search.json.mozlz4", (void 0)))
+1654456570050	Marionette	INFO	Listening on port 63247
+DevTools listening on ws://localhost:63224/devtools/browser/aa677f3b-f7c7-432e-adbf-90dbe90a5ad5
+Read port: 63247
+1654456570144	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.by"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654977039376	geckodriver	INFO	Listening on 127.0.0.1:52516
+1654977042450	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52517" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofileXWHu7U"
+1654977043022	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52517
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofileXWHu7U\\search.json.mozlz4", (void 0)))
+1654977045187	Marionette	INFO	Listening on port 52541
+DevTools listening on ws://localhost:52517/devtools/browser/c7128f94-21cc-4c1d-83e1-c2a859191469
+Read port: 52541
+1654977045236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654977062050	Marionette	INFO	Stopped listening on port 52541
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654977069160	geckodriver	INFO	Listening on 127.0.0.1:52627
+1654977072223	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52628" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofileZiqvh4"
+1654977072613	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52628
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofileZiqvh4\\search.json.mozlz4", (void 0)))
+1654977074512	Marionette	INFO	Listening on port 52649
+DevTools listening on ws://localhost:52628/devtools/browser/0f2d7d1f-59da-4be7-a248-c337a22f108a
+Read port: 52649
+1654977074568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 20508, MediaDecoderStateMachine #1] WARNING: Decoder=1fb49e20400 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3587
+1654977102221	Marionette	INFO	Stopped listening on port 52649
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654977110117	geckodriver	INFO	Listening on 127.0.0.1:52758
+1654977113196	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52759" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofileCYPBT5"
+1654977113594	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52759
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofileCYPBT5\\search.json.mozlz4", (void 0)))
+1654977115438	Marionette	INFO	Listening on port 52780
+DevTools listening on ws://localhost:52759/devtools/browser/f2b8f8ea-263b-407e-9503-da3cd18fafcc
+Read port: 52780
+1654977115529	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654977127097	geckodriver	INFO	Listening on 127.0.0.1:52839
+1654977130178	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52840" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofileg57BSO"
+1654977130561	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52840
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofileg57BSO\\search.json.mozlz4", (void 0)))
+1654977132453	Marionette	INFO	Listening on port 52861
+DevTools listening on ws://localhost:52840/devtools/browser/81cc7ca0-c7dd-4f92-8180-e4d53d986331
+Read port: 52861
+1654977132509	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://yastatic.net/yandex-video-player-iframe-api-bundles/1.0-9151/js/player.v2.modern.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://yastatic.net/yandex-video-player-iframe-api-bundles/1.0-9151/js/player.v2.modern.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654977188656	geckodriver	INFO	Listening on 127.0.0.1:52972
+1654977191724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52973" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofilelfe44t"
+1654977192117	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52973
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofilelfe44t\\search.json.mozlz4", (void 0)))
+1654977193922	Marionette	INFO	Listening on port 52996
+Read port: 52996
+1654977193949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:52973/devtools/browser/60d577da-1417-4c63-9c04-ca640c3a156f
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654977868683	Marionette	INFO	Stopped listening on port 52996
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53089" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofileOE50PR"
+1654977215302	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53089
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofileOE50PR\\search.json.mozlz4", (void 0)))
+1654977217259	Marionette	INFO	Listening on port 53113
+DevTools listening on ws://localhost:53089/devtools/browser/a61b6a67-5a9e-4fb1-bf9d-47249c7e7292
+Read port: 53113
+1654977217357	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1654977245185	Marionette	INFO	Stopped listening on port 53113
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654977252315	geckodriver	INFO	Listening on 127.0.0.1:52899
+1654977255375	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52900" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofileqZ9xXY"
+1654977255770	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52900
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofileqZ9xXY\\search.json.mozlz4", (void 0)))
+1654977257629	Marionette	INFO	Listening on port 52943
+Read port: 52943
+1654977257696	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:52900/devtools/browser/0e2f2ec2-6736-479f-9d51-fec93ca18f0e
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654977265644	Marionette	INFO	Stopped listening on port 52943
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654977284366	geckodriver	INFO	Listening on 127.0.0.1:53113
+1654977287407	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53114" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofilemqhWQZ"
+1654977287823	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53114
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AndUser\\AppData\\Local\\Temp\\rust_mozprofilemqhWQZ\\search.json.mozlz4", (void 0)))
+1654977289662	Marionette	INFO	Listening on port 53150
+DevTools listening on ws://localhost:53114/devtools/browser/19811301-ba39-48be-87e5-264a0c3a2640
+Read port: 53150
+1654977289744	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch_serp.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://yastatic.net/yandex-video-player-iframe-api-bundles/1.0-9151/js/player.v2.modern.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654977870057	Marionette	INFO	Stopped listening on port 53150
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
